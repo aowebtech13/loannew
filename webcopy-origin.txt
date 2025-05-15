@@ -1,0 +1,256 @@
+Uri: https://assets.adobedtm.com/a3acdf76791c/4e3d15bcff8b/launch-df0c37f89f0a.min.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\a3acdf76791c\4e3d15bcff8b\launch-df0c37f89f0a.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/loans/personal-loans-agreement-tcs.pdf?rev=219dd815931940ddb0af766a51de3887
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\documents\loans\personal-loans-agreement-tcs.pdf
+Content Type: application/pdf
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/icons/bi-colour/credit-card-protection-decorative.svg?iar=0&rev=59667198be5147e98738360887c1c0b9&hash=98E4C20BEBF7BE9693CBE26DC56F4D2C
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\icons\bi-colour\credit-card-protection-decorative.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/icons/bi-colour/documents-decorative.svg?iar=0&rev=5dbc9275a81142cb82d8960af8bc4df7&hash=5E586153CA95DD4D106F97D4673EB8A7
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\icons\bi-colour\documents-decorative.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/icons/bi-colour/envelope-decorative.svg?iar=0&rev=6933125390a149e293b0d7aa7eb1e8f4&hash=679CB7ED32240D25A70B4734ED6EF1E6
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\icons\bi-colour\envelope-decorative.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/icons/bi-colour/money-security-decorative.svg?iar=0&rev=ae9b61efbe8643599995635fc12447a2&hash=98FD4D049140DF47D98BDF3ACA605F32
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\icons\bi-colour\money-security-decorative.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/icons/bi-colour/steering-wheel-decorative.svg?iar=0&rev=0db7d9844f8e4e79897557dbf9fc2dd7&hash=946BF38A27BDC7C8ADD03DF7E9678307
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\icons\bi-colour\steering-wheel-decorative.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/icons/bi-colour/tick-circle-1-decorative.svg?iar=0&rev=dbaf2ff21a344380a6f81fdccdbfebd3&hash=0D519F10FA22D9EB2DC3F52799FE05E1
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\icons\bi-colour\tick-circle-1-decorative.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/loans/borrow-more/hero-illus-borrow-more-decorative-small.png?h=504&iar=0&w=896&rev=1e40c53bc2c046c886e2406b3c38750b&hash=213DC5BBC98ABBDFBFC7C3BF23771BC4
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\loans\borrow-more\hero-illus-borrow-more-decorative-small.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/loans/calculator/hero-illus-loan-calculator-rgb-decorative-small.png?h=504&iar=0&w=896&rev=96132e3a60dc4135ba8c41e3aba229c7&hash=0C95BAFF5881F0CBA989C0CCE495DBA8
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\loans\calculator\hero-illus-loan-calculator-rgb-decorative-small.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/loans/car/full-width-cta-illus-car-loan-decorative-small.png?h=504&iar=0&w=896&rev=36d5382f071d411790a6cd0a8cf04bb5&hash=EF9C155DACE8DB40F74CF4D94565C2C5
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\loans\car\full-width-cta-illus-car-loan-decorative-small.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/loans/category/hero-illus-stocks-and-share-decorative-small.png?h=504&iar=0&w=896&rev=22dbb3f5e33045989c683a13a9d72f40&hash=7C5D7F1EAFD31C1F4B70DCC3E9D40DBA
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\loans\category\hero-illus-stocks-and-share-decorative-small.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/-/assets/nationwidecouk/images/loans/hero-cta/full-width-cta-illus-home-improvement-decorative-small.png?h=504&iar=0&w=896&rev=a234362835084c11833faf9480faa014&hash=CCE9553EF01A2CF0D7734DD93078325B
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\-\assets\nationwidecouk\images\loans\hero-cta\full-width-cta-illus-home-improvement-decorative-small.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/loans
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/apply
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\apply.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/borrow-more
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\borrow-more.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/calculator
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\calculator.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/car-loans
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\car-loans.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/choose-the-right-loan
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\choose-the-right-loan.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/debt-consolidation
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\debt-consolidation.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/help
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\help.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/help/application-proofs-guide
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\help\application-proofs-guide.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/help/cancelling-your-loan
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\help\cancelling-your-loan.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/help/joint-loans
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\help\joint-loans.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/help/loans-terms-and-conditions
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\help\loans-terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/help/making-an-overpayment
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\help\making-an-overpayment.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/help/paying-off-your-loan-early
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\help\paying-off-your-loan-early.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/home-improvement
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\home-improvement.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/loans/loan-rates
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\loans\loan-rates.html
+Content Type: text/html
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/278-664809c5a583afaee9ab.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\278-664809c5a583afaee9ab.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/49-6d804d70b000e1ac94b6.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\49-6d804d70b000e1ac94b6.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/feature-guide.90334b84f1b4f04a223b.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\feature-guide.90334b84f1b4f04a223b.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/framework-f7e8464f2fe7d34d4f18.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\framework-f7e8464f2fe7d34d4f18.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/main-4bedb2f67914b740af8a.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\main-4bedb2f67914b740af8a.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/pages/[[...slug]]-1c9765e26bf708b8c041.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\pages\[[...slug]]-1c9765e26bf708b8c041.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/pages/_app-4d2b90307385245874f4.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\pages\_app-4d2b90307385245874f4.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/vendor~formik-7300fb07cbe655323160.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\vendor~formik-7300fb07cbe655323160.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/vendor~gql-e9298a2c99d7521a6fb1.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\vendor~gql-e9298a2c99d7521a6fb1.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/vendor~ui-lib-65908c3a30de0daa8cfa.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\vendor~ui-lib-65908c3a30de0daa8cfa.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/chunks/webpack-4916a9a41af555225cf8.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\chunks\webpack-4916a9a41af555225cf8.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/NationwideFounders-Bold-5e4812fe7a5dc53994beab79de18e199.woff2
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\NationwideFounders-Bold-5e4812fe7a5dc53994beab79de18e199.woff2
+Content Type: font/woff2
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/NationwideFounders-Bold-6c8b9811e9b769761dedf35266f0d24e.woff
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\NationwideFounders-Bold-6c8b9811e9b769761dedf35266f0d24e.woff
+Content Type: font/woff
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/NationwideFounders-Medium-1e947298ca2cc26fb137350ab7c122e6.woff
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\NationwideFounders-Medium-1e947298ca2cc26fb137350ab7c122e6.woff
+Content Type: font/woff
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/NationwideFounders-Medium-f8df6866b9f1c76566a569d4ad243716.woff2
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\NationwideFounders-Medium-f8df6866b9f1c76566a569d4ad243716.woff2
+Content Type: font/woff2
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/NationwideFounders-Regular-95277ab88e25c80d11c98ace40ae2efe.woff
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\NationwideFounders-Regular-95277ab88e25c80d11c98ace40ae2efe.woff
+Content Type: font/woff
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/NationwideFounders-Regular-99b1fae1473bcad26b713002f27c0c49.woff2
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\NationwideFounders-Regular-99b1fae1473bcad26b713002f27c0c49.woff2
+Content Type: font/woff2
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/PPEditorialNew-Regular-0fade5c9e7867332ae5a306f66c8a7d9.woff2
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\PPEditorialNew-Regular-0fade5c9e7867332ae5a306f66c8a7d9.woff2
+Content Type: font/woff2
+
+Uri: https://www.nationwide.co.uk/_next/static/fonts/PPEditorialNew-Regular-bd8de66be4175fed48a71302d299cd54.woff
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\fonts\PPEditorialNew-Regular-bd8de66be4175fed48a71302d299cd54.woff
+Content Type: font/woff
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-114x114-d57e2f17906e949f1fb202420e818535.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-114x114-d57e2f17906e949f1fb202420e818535.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-120x120-b2c359b37224c467a86e3488f074ff82.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-120x120-b2c359b37224c467a86e3488f074ff82.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-144x144-50c983146e5859b80c5672dee9fcc17a.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-144x144-50c983146e5859b80c5672dee9fcc17a.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-152x152-4252f8a5a352803fb56a9346b7763060.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-152x152-4252f8a5a352803fb56a9346b7763060.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-57x57-d2b2a3fbed54048c31f5ff47a41e0175.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-57x57-d2b2a3fbed54048c31f5ff47a41e0175.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-60x60-34e28f0f2581e7d3e4b7f880e41b788d.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-60x60-34e28f0f2581e7d3e4b7f880e41b788d.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-72x72-1d089b99c60a1105005525cda89514de.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-72x72-1d089b99c60a1105005525cda89514de.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/apple-touch-icon-76x76-a690802042b0961655eb1966908f63f8.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\apple-touch-icon-76x76-a690802042b0961655eb1966908f63f8.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/favicon-128-b779fd819b0703c6936930dca7c36ed3.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\favicon-128-b779fd819b0703c6936930dca7c36ed3.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/favicon-16x16-f9f11ecdce0505b15132fed9cb964fe4.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\favicon-16x16-f9f11ecdce0505b15132fed9cb964fe4.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/favicon-196x196-cd2f6861bb4f2a844f266d945ef58cc1.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\favicon-196x196-cd2f6861bb4f2a844f266d945ef58cc1.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/favicon-32x32-1252571a4a4465aff2edcc5dc5b01b43.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\favicon-32x32-1252571a4a4465aff2edcc5dc5b01b43.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/images/favicon-96x96-eb5ebca402163676d1ef400f63b4cdec.png
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\images\favicon-96x96-eb5ebca402163676d1ef400f63b4cdec.png
+Content Type: image/png
+
+Uri: https://www.nationwide.co.uk/_next/static/Ugh9eRpEAETPKHCDTZbsc/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\Ugh9eRpEAETPKHCDTZbsc\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.nationwide.co.uk/_next/static/Ugh9eRpEAETPKHCDTZbsc/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.nationwide.co.uk\_next\static\Ugh9eRpEAETPKHCDTZbsc\_ssgManifest.js
+Content Type: application/javascript
+
