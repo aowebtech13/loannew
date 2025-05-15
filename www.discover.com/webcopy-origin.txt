@@ -1,0 +1,68 @@
+Uri: https://apps.bazaarvoice.com/deployments/discover-personal-loans/main_site/production/en_US/bv.js
+File Name: C:\Downloaded Web Sites\www.discover.com\deployments\discover-personal-loans\main_site\production\en_US\bv-1.js
+Content Type: text/javascript
+
+Uri: https://assets.adobedtm.com/1e5ef0994701/ce70dafc866f/launch-44a9e5773195.min.js
+File Name: C:\Downloaded Web Sites\www.discover.com\1e5ef0994701\ce70dafc866f\launch-44a9e5773195.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://portal.discover.com/bankac/scripts/src/backbone-file3.js
+File Name: C:\Downloaded Web Sites\www.discover.com\bankac\scripts\src\backbone-file3-1.js
+Content Type: application/javascript
+
+Uri: https://www.discover.com/content/dam/dfs/personal-loans/images/favicon.ico
+File Name: C:\Downloaded Web Sites\www.discover.com\content\dam\dfs\personal-loans\images\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://www.discover.com/content/dam/discover/en_us/personal-loans/icons/CCPA-Icon.svg
+File Name: C:\Downloaded Web Sites\www.discover.com\content\dam\discover\en_us\personal-loans\icons\CCPA-Icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.discover.com/content/dam/discover/en_us/personal-loans/icons/light-icons/discover-logo.png
+File Name: C:\Downloaded Web Sites\www.discover.com\content\dam\discover\en_us\personal-loans\icons\light-icons\discover-logo-1.png
+Content Type: image/png
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-core/clientlibs/clientlib-core/resources/font/discoversans/woff2/DiscoverSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-core\clientlibs\clientlib-core\resources\font\discoversans\woff2\DiscoverSans-Bold-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-core/clientlibs/clientlib-core/resources/font/discoversans/woff2/DiscoverSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-core\clientlibs\clientlib-core\resources\font\discoversans\woff2\DiscoverSans-Medium-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-core/clientlibs/clientlib-core/resources/font/discoversans/woff2/DiscoverSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-core\clientlibs\clientlib-core\resources\font\discoversans\woff2\DiscoverSans-Semibold-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-dpl/clientlibs/clientlib-base.min.ACSHASH215da10690de84ab6070fea120e3b50f.js
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-dpl\clientlibs\clientlib-base.min.ACSHASH215da10690de84ab6070fea120e3b50f-1.js
+Content Type: application/javascript
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-dpl/clientlibs/clientlib-base.min.ACSHASHf8305147099e082a95ab12aa7eec0fae.css
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-dpl\clientlibs\clientlib-base.min.ACSHASHf8305147099e082a95ab12aa7eec0fae-1.css
+Content Type: text/css
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-dpl/clientlibs/clientlib-dependencies.min.ACSHASHa61d43936b83eb5bf606f0c9f0f14b4d.js
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-dpl\clientlibs\clientlib-dependencies.min.ACSHASHa61d43936b83eb5bf606f0c9f0f14b4d-1.js
+Content Type: application/javascript
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-dpl/clientlibs/clientlib-dependencies.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e.css
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-dpl\clientlibs\clientlib-dependencies.min.ACSHASHd41d8cd98f00b204e9800998ecf8427e-1.css
+Content Type: text/css
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-dpl/clientlibs/clientlib-site.min.ACSHASH7e49e7552dc35aa87633635549d07aac.js
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-dpl\clientlibs\clientlib-site.min.ACSHASH7e49e7552dc35aa87633635549d07aac-1.js
+Content Type: application/javascript
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-dpl/clientlibs/clientlib-site.min.ACSHASHf48c9662c665e08d121032ac704ffb9a.css
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-dpl\clientlibs\clientlib-site.min.ACSHASHf48c9662c665e08d121032ac704ffb9a-1.css
+Content Type: text/css
+
+Uri: https://www.discover.com/etc.clientlibs/dfs-dpl/clientlibs/clientlib-vendor.min.ACSHASH061e07e6798925f492c95dea18cd41aa.css
+File Name: C:\Downloaded Web Sites\www.discover.com\etc.clientlibs\dfs-dpl\clientlibs\clientlib-vendor.min.ACSHASH061e07e6798925f492c95dea18cd41aa-1.css
+Content Type: text/css
+
+Uri: https://www.discover.com/personal-loans/personal-loan-calculator/
+File Name: C:\Downloaded Web Sites\www.discover.com\personal-loans\personal-loan-calculator\index-1.htm
+Content Type: text/html
+
